@@ -27,6 +27,8 @@ class SchoolListViewController: UIViewController {
             }
         }
     }
+ 
+
 }
 extension SchoolListViewController: SchoolListViewControllerDelegate {
 
